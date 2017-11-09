@@ -6,7 +6,6 @@ Repositório criado, para armazenar codigos e dados, para acesso dos alunos na o
 1. Lista de Exerícios
 2. Resposta dos codigos.
 3. Slide da aula.
-4. Link da VM para estudo.
 
 
 Todo o tutorial e instruções estarão descritos no arquivo link.
