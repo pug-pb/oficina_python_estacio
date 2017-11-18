@@ -2,7 +2,7 @@
 #
 #OBS:
 #1. Eu uso a versão 3.5 do python para resolve-los.
-#2. Caso tenha dúvidas, pode fazer realizar uma pergunta que ajuda a resolver.
+#2. Caso tenha dúvidas, pode realizar perguntas no repositorio que ajudarei a resolver.
 #3. Siga a apostila criada, para conseguir compreender o código, pois nela tem o algoritmo.
 #4. Lembrando que existe várias forma de resolver a questão, so precisamos nos atentar ao "ZEN OF PYTHON".
 #5. Quando for testar o código, só precisa comentar as questões que são relevantes.
